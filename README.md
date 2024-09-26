@@ -5,12 +5,15 @@ Plantilla para modifica  de archivo README.md para la evaluación.
 
 # Personaje2024
 ## Nombre del personaje
-Jack
+Jack (El extraño mundo de Jack: Pelicula).
 ## Creador
-José Emmanuel Arredondo Escalante
+Juan Francisco Rodriguez Guerrero
 ## Explicacion del funcionamiento
-El personaje al momento que se acerca 5 cm una persona comienza a hacer algo (descripcion luz, sonido y movimiento), da una explicación completa.
-
+El personaje contendra una caja de regalo en manos, la cual por medio de un servo levantara una de las manos para abir la caja de regalo
+dentro de esta caja habra una serie de leds que prenderan en cuanto se levante la tapa; esto sucedera al momento de que una entidad se acerque
+mucho al personaje.
+Otra caracteristica sera que este emitira mensajes distintos al momento de que la entidad se acerque dependiendo la iluminacion ambiental.
+Ademas cuando esto suceda se encenderan focos leds dentro de la cabeza del personaje.
 ## Materiales a utlizar
 |Material|Imagen|Cantidad|Costo|
 |--|--|--|--|
