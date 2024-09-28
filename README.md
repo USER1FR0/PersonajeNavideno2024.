@@ -37,8 +37,9 @@ Ademas cuando esto suceda se encenderan focos leds dentro de la cabeza del perso
 ![El texto del párrafo](https://github.com/user-attachments/assets/ecb4f677-87c2-4c3c-8f75-135e0655308a)
 
 ## Enlaces de la simulación de wokwi
-Deben ser de 1 a 2 enlaces de wokwi
+https://wokwi.com/projects/410067995917308929
 
+https://wokwi.com/projects/410244166342943745
 ## Videos
 Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.
 
