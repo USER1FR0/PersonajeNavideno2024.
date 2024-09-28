@@ -34,7 +34,7 @@ Ademas cuando esto suceda se encenderan focos leds dentro de la cabeza del perso
 |...||
 
 ## Dibujo del personaje
-Imagen hecha a mano o con software
+![El texto del párrafo](https://github.com/user-attachments/assets/ecb4f677-87c2-4c3c-8f75-135e0655308a)
 
 ## Enlaces de la simulación de wokwi
 Deben ser de 1 a 2 enlaces de wokwi
