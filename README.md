@@ -60,7 +60,9 @@ https://drive.google.com/file/d/1WyMBuYFEHMLCuJlU3T7UhhYmbBNlGq3W/view?usp=shari
 https://drive.google.com/drive/folders/1mShhBrMvygCb984grQdZatsLYpR9bcME?usp=sharing
 
 ## Coevaluacion
-En general mi compañera de equipo (Carmen Catalina) es una persona muy coolaborativa a la hora de trabajar, me parece excelente la forma en que apoya a la hora de realizar practicas y generar ideas. Tambien considero necesario destacar la iniciativa con la que cuenta, es muy notorio que ella comprende y entiende el tema, los codigos y los circuitos, ademas que se le facilita mucho identificar los componentes, funciones y metodos, y como se pueden implementar dentro de las practicas lo cual fue de gran ayuda y creo que en cierta forma se le facilita mucho generar ideas y complementarlas, pero cabe destacar que en el transcurso de los trabajos sentí un poco que le faltar mantener firmes sus ideas y desarrollarlas mas a fondo. Despues del trabajo realizado se que mi compañera sabe lo que esta haciendo y cuenta con bastabtes puntos fuertes para aportar en la finalizacion del proyecto.
+### Carmen Catalina Delgado Manzano
+### 1223100441
+En general mi compañera de equipo es una persona muy coolaborativa a la hora de trabajar, me parece excelente la forma en que apoya a la hora de realizar practicas y generar ideas. Tambien considero necesario destacar la iniciativa con la que cuenta, es muy notorio que ella comprende y entiende el tema, los codigos y los circuitos, ademas que se le facilita mucho identificar los componentes, funciones y metodos, y como se pueden implementar dentro de las practicas lo cual fue de gran ayuda y creo que en cierta forma se le facilita mucho generar ideas y complementarlas, pero cabe destacar que en el transcurso de los trabajos sentí un poco que le faltar mantener firmes sus ideas y desarrollarlas mas a fondo. Despues del trabajo realizado se que mi compañera sabe lo que esta haciendo y cuenta con bastabtes puntos fuertes para aportar en la finalizacion del proyecto.
 
 ## Capturas de Evaluaciones de Curso de C
 
