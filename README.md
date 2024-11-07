@@ -9,11 +9,11 @@ Jack (El extraño mundo de Jack: Pelicula).
 ## Creador
 Juan Francisco Rodriguez Guerrero
 ## Explicacion del funcionamiento
-El personaje contendra una caja de regalo en manos, la cual por medio de un servo levantara una de las manos para abir la caja de regalo
-dentro de esta caja habra una serie de leds que prenderan en cuanto se levante la tapa; esto sucedera al momento de que una entidad se acerque
-mucho al personaje.
-Otra caracteristica sera que este emitira mensajes distintos al momento de que la entidad se acerque dependiendo la iluminacion ambiental.
-Ademas cuando esto suceda se encenderan focos leds dentro de la cabeza del personaje.
+El personaje contendra una matriz de leds en las manos (Modificacion), la cual por medio de dos servos coordinados levantara cada una de las manos para que la pantalla tenga movimiento.
+Debajo de los pies tendra una caja de regalos,dentro de esta caja habra una imagen de su masctota, que se "Asomara de la caja" mediante un servo motor.
+Ambas funciones anteriores se activaran en cuanto una entidad se acerque a cierta distancia del personaje.
+Otra caracteristica sera que este emitira distintos sonidos navideños, controlados por un boton para hacer posible que no siempre esten sonando, lo cual tambien se vera controlado con un sensor HSCR04.
+En la parte trasera-lateral se encontrara un arbol de navidad que sera decorado con una serie de leds RGB conectados en serie, los cuales tendrean el efecto de prender en cascada y cambiaran de color en cada pasada.
 ## Materiales a utlizar
 |Material|Imagen|Cantidad|Costo|
 |--|--|--|--|
@@ -59,6 +59,9 @@ https://drive.google.com/file/d/1WyMBuYFEHMLCuJlU3T7UhhYmbBNlGq3W/view?usp=shari
 ## Avanze Video Proyecto
 https://drive.google.com/drive/folders/1mShhBrMvygCb984grQdZatsLYpR9bcME?usp=sharing
 
+## Coevaluacion
+En general mi compañera de equipo (Carmen Catalina) es una persona muy coolaborativa a la hora de trabajar, me parece excelente la forma en que apoya a la hora de realizar practicas y generar ideas. Tambien considero necesario destacar la iniciativa con la que cuenta, es muy notorio que ella comprende y entiende el tema, los codigos y los circuitos, ademas que se le facilita mucho identificar los componentes, funciones y metodos, y como se pueden implementar dentro de las practicas lo cual fue de gran ayuda y creo que en cierta forma se le facilita mucho generar ideas y complementarlas, pero cabe destacar que en el transcurso de los trabajos sentí un poco que le faltar mantener firmes sus ideas y desarrollarlas mas a fondo. Despues del trabajo realizado se que mi compañera sabe lo que esta haciendo y cuenta con bastabtes puntos fuertes para aportar en la finalizacion del proyecto.
+
 ## Capturas de Evaluaciones de Curso de C
 
 ![image](https://github.com/user-attachments/assets/62749015-6dee-4d0f-94e3-d20fbf01f4cf)
@@ -68,7 +71,6 @@ https://drive.google.com/drive/folders/1mShhBrMvygCb984grQdZatsLYpR9bcME?usp=sha
 ![image](https://github.com/user-attachments/assets/fdc5f521-1de7-4470-97fe-3a63ae8e7b91)
 
 ![image](https://github.com/user-attachments/assets/5851ad1e-4f53-4bd0-917e-7467c0608b13)
-
 
 
 ![image](https://github.com/user-attachments/assets/95ac62e2-71e4-4774-8ac8-1f07e771cfbe)
